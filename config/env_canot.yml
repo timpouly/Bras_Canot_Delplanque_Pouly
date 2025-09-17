@@ -1,4 +1,4 @@
-name: py312
+name: env_canot
 channels:
   - defaults
   - https://repo.anaconda.com/pkgs/main
