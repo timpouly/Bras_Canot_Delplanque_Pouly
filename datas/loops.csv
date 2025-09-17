@@ -1,0 +1,9 @@
+sensor;source;info;link;position_on_link_[m];lat;lon;muted
+Poste 12 Sens 1;ALYCE/EGIS;;28;28.785361807425996;-21.040500550768332;55.7122096108738;true
+Poste 12 Sens 2;ALYCE/EGIS;;86;103.8420182973694;-21.04047277070714;55.71211475329614;true
+Poste 13 Sens 1;ALYCE/EGIS;;29;205.72567282832995;-21.044990981197707;55.71583528459537;true
+Poste 13 Sens 2;ALYCE/EGIS;;87;90.47132940507338;-21.04475060582483;55.71587635097839;true
+Poste 12 Sens 1*;ALYCE/EGIS;désagrégation en données 6 min avec les profils des données du CRGT;28;18.785361807425996;-21.04047362613008;55.71211767421334;false
+Poste 12 Sens 2*;ALYCE/EGIS;désagrégation en données 6 min avec les profils des données du CRGT;86;93.8420182973694;-21.040499695346966;55.712206689955536;false
+Poste 13 Sens 1*;ALYCE/EGIS;désagrégation en données 6 min avec les profils des données du CRGT;29;195.72567282832995;-21.044901955045564;55.715848892538794;false
+Poste 13 Sens 2*;ALYCE/EGIS;désagrégation en données 6 min avec les profils des données du CRGT;87;80.47132940507338;-21.04483898437489;55.71585864713834;false
